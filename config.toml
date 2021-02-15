@@ -2,6 +2,8 @@ baseURL = "https://jackliston1998.github.io/blog"
 title = "Jack's Dev Log"
 theme = "hugo-notepadium"
 copyright = "©2019 Notepadium."
+publishDir = "docs"
+
 
 languageCode = "zh-cn"
 hasCJKLanguage = true
