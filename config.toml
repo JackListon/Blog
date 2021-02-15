@@ -1,4 +1,4 @@
-baseURL = "https://jackliston1998.github.io/"
+baseURL = "https://jackliston1998.github.io/blog"
 title = "Jack's Dev Log"
 theme = "hugo-notepadium"
 copyright = "©2019 Notepadium."
