@@ -1,0 +1,94 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jack&#39;s Dev Log</title>
+    <link>https://jackliston1998.github.io/categories/</link>
+    <description>Recent content in Categories on Jack&#39;s Dev Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>©2019 Notepadium.</copyright>
+    
+        <atom:link href="https://jackliston1998.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://jackliston1998.github.io/posts/first-post/</link>
+      <pubDate>Mon, 15 Feb 2021 02:08:38 +0000</pubDate>
+      
+      <guid>https://jackliston1998.github.io/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;This is hopefully the first of many blog posts and not just the result of fleeting motivation. I have a huge list of ideas that I want to do to improve my programming abilities and to pimp out my portfolio.&lt;/p&gt;
+&lt;p&gt;As you may have noticed I am using Hugo at the moment to create the site. I am doing this to minimize friction and get my first post out there. One of my many goals is to stamp more of a personal touch on my blog site. I am currently thinking of using this blog as an excuse to research more into web dev and learn more of the basics of hosting a more dynamic site than the ones compiled by Hugo.&lt;/p&gt;
+&lt;p&gt;Originally I planned on writing this more like a journal. However, I have realized that it is more cathartic for me to write as if I am talking to someone.&lt;/p&gt;
+&lt;h2 id=&#34;what-to-expect&#34;&gt;What to expect&lt;/h2&gt;
+&lt;p&gt;At the moment I plan on posting two types of content to this blog.&lt;/p&gt;
+&lt;h3 id=&#34;weekly-posts&#34;&gt;Weekly posts&lt;/h3&gt;
+&lt;p&gt;Every Sunday I plan on posting a weekly summary in which I will discuss the following.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review of the last week.
+&lt;ul&gt;
+&lt;li&gt;What were my goals for the last week?&lt;/li&gt;
+&lt;li&gt;Did I achieve my goals?&lt;/li&gt;
+&lt;li&gt;What challenges did I encounter and how did I overcome them?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plans for the next week.
+&lt;ul&gt;
+&lt;li&gt;What do I want to do in the next week?&lt;/li&gt;
+&lt;li&gt;What challenges do I expect to face?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h3&gt;
+&lt;p&gt;Every time that I finish one of the projects I plan on writing a blog post based on that project. It will most likely be a pretty bog-standard summary of the events. I plan on talking about topics like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning Resouces Used.&lt;/li&gt;
+&lt;li&gt;Summary of each of my sub goals to achieve the projects&amp;rsquo;s completion.&lt;/li&gt;
+&lt;li&gt;Summary of some of the challenges I faced.&lt;/li&gt;
+&lt;li&gt;My learning outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-the-next-week&#34;&gt;Plans for the next week.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What do I want to do in the next week?
+&lt;ul&gt;
+&lt;li&gt;Create a Texas Hold&amp;rsquo;em Poker odds calculator
+&lt;ul&gt;
+&lt;li&gt;work on pre flop odds (i.e odds of each 2 card hand)&lt;/li&gt;
+&lt;li&gt;work on post flop odds (i.e rate the value on hand, calculate what percent of potential hands beat that hand)&lt;/li&gt;
+&lt;li&gt;repeat for turn and river.&lt;/li&gt;
+&lt;li&gt;BONUS RONUS: some kind of user interface would be very nice but CLI will do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create a text wrapper for MetEireanns.ie
+&lt;ul&gt;
+&lt;li&gt;For use with Nimbus (will update on what Nimbus is in a later post but TLDR, hyper localised weather forecasting using ML)&lt;/li&gt;
+&lt;li&gt;XML is not fun, MetEireann API returns horrifically.&lt;/li&gt;
+&lt;li&gt;Research text wrappers.&lt;/li&gt;
+&lt;li&gt;Create the text wrapper.&lt;/li&gt;
+&lt;li&gt;Research NPM packages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Work on the front end for my weather forecasting application
+&lt;ul&gt;
+&lt;li&gt;Do more react tutorials.&lt;/li&gt;
+&lt;li&gt;Get the landing page outputting dummy forecasts.&lt;/li&gt;
+&lt;li&gt;Take user input to output the forecast for a user specified date.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What challenges do I expect to face?
+&lt;ul&gt;
+&lt;li&gt;With the poker I need to reseach as much as possible into poker theory. I am good at math and compatent in python so the main issues should be the theory behind the calculator&lt;/li&gt;
+&lt;li&gt;With the text wrapper my main issue will be integrating what I have made into my react project as a I am novice at best when it comes to ReactJS.&lt;/li&gt;
+&lt;li&gt;For the front end my main issue will be getting the user input to work with my text wrapper. MetEireann publishes their own forecasts so ultimately I would liek to be able just output those fore a desired date.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;outro&#34;&gt;Outro&lt;/h2&gt;
+&lt;p&gt;As you can see this is a pretty normal format for a blog. I will try my best to inject some humor here and there but as a whole, I want to try ad keep these posts informative. I want to use writing this blog as a reason to fully understand the concepts that I am learning. I find the best way to ensure you understand something is by forcing yourself to teach something, and I don&amp;rsquo;t want to annoy my family with coding talk so I decided I would publish my thoughts on the internet instead. I will close this post with my goals for the upcoming week. Thank you for reading.❤️&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
